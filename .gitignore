@@ -1,0 +1,4 @@
+.RUBYARCHDIR.time
+example_wrap.cxx
+example_wrap.o
+example.bundle
