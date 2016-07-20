@@ -1,4 +1,4 @@
-# Commands
+Commands
 
 ruby extconf.rb
 make
@@ -13,7 +13,3 @@ Apple is good. with encoding UTF-8
 German ÖÄÜ and öäü test with encoding ASCII-8BIT
 Apple is good. with encoding ASCII-8BIT
 ```
-
-# Question
-
-How can I preserve the UTF-8 encoding?
